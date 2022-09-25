@@ -1,3 +1,24 @@
-.videocube {
+body {background-color: #090809;
+font-size: 150%;
+font-style: copperplate;}
 
+#videocube {
+    position: absolute;
+    top: 50;
+    left: 60%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 400px;
+    height: 400px;
+  }
+
+  #dafriend {
+    position:absolute;
+    top: 20px;
+    left: 20px;
+  }
+p {
+    color: aliceblue;
+    font-size: 150px;
+    font-family: junebug; src: ('https://github.com/jialiang/EPSON-True-Regular-Script-Medium.git');
 }
